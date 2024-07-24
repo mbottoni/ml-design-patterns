@@ -1,4 +1,4 @@
 
 # Understanding ml design patterns
 
-Lectura notes of the ml design patterns
+Lectures notes of the ml design patterns book
