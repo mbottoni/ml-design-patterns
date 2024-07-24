@@ -4,11 +4,10 @@
 
 ## What are design patterns
 
-"""
+```
 Each pattern describes a problem which occurs over and over again in our environ‐ ment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.
 Each solution is stated in such a way that it gives the essential field of relationships needed to solve the problem, but in a very general and abstract way—so that you can solve the problem for yourself, in your own way, by adapting it to your preferences, and the local conditions at the place where you are making it.
-
-"""
+```
 
 ## Data and feature engineering
 
