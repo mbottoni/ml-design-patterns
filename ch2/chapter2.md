@@ -13,6 +13,10 @@
 
 ## Hashed feature
 
+- using hashes for possible categorical features
+    - deal with the cardinality problem
 
+## Embeddings
 
+-
 
