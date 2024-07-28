@@ -18,5 +18,6 @@
 
 ## Embeddings
 
--
-
+- text embeddings
+- image embeddings
+    - dimension?
