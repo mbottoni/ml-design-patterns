@@ -12,8 +12,10 @@
     - bias vs variance
 
 - cascade
+    - input of a model is the output of another
+    - kubeflow pipelines
 
-- neutral classification
+- neutral class
 
 - rebalancing
 
