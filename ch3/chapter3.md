@@ -7,7 +7,9 @@
     - sigmoid vs softmax
 
 - ensembles
-
+    - bagging vs boosting vs stacking
+    - dropout as bagging
+    - bias vs variance
 
 - cascade
 
