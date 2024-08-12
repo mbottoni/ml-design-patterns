@@ -10,6 +10,7 @@
     - knowledge distillation
 
 - Checkpoints
+    - adding intermediate savepoints
 
 - Transfer Learning
 
