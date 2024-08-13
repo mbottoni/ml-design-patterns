@@ -16,6 +16,10 @@
     - bottleneck layer
 
 - Distribution
+    - number of params
+    - mirrored strategy tensorflow
+    - model parallelism vs data parallelism
+    - batch size is important
 
 - Hyperparameter tunning
 
