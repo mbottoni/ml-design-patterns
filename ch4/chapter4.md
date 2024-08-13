@@ -22,4 +22,5 @@
     - batch size is important
 
 - Hyperparameter tunning
+    - grid search and combinatorial explosion
 
