@@ -13,6 +13,7 @@
     - adding intermediate savepoints
 
 - Transfer Learning
+    - bottleneck layer
 
 - Distribution
 
