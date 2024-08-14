@@ -14,3 +14,5 @@ batch serving vs steteless serving function
 - continued model evalutation
 
 - two phased prediction
+
+- keyed predictions
