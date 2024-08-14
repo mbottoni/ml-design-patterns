@@ -10,4 +10,7 @@ batch serving vs steteless serving function
     - saved model cli on tensorflow
 
 - batch serving
+
 - continued model evalutation
+
+- two phased prediction
