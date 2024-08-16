@@ -22,7 +22,32 @@ NaN imputation??
 
 ## Windowed Inference
 
+## Workflow pipeline
+
+In addition to TFX, Apache Airflow and Kubeflow Pipelines are both alternatives for
+implementing the Workflow Pipeline pattern. Like TFX, both Airflow and KFP treat
+pipelines as a DAG where the workflow for each step is defined in a Python script.
+They then take this script and provide APIs to handle scheduling and orchestrating
+the graph on the specified infrastructure. Both Airflow and KFP are open source and
+can therefore run on-premises or in the cloud.
+
 ## Feature Store
+
+Good feature engineering is crucial for the success of many machine learning solu‐
+tions. However, it is also one of the most time-consuming parts of model develop‐
+ment. Some features require significant domain knowledge to calculate correctly, and
+changes in the business strategy can affect how a feature should be computed.
+
+The solution is to create a shared feature store, a centralized location to store and
+document feature datasets that will be used in building machine learning models and
+can be shared across projects and teams
+
+- kafka
+- redis / cassandra
+- hive / bigquery
+
+- open source feature store: feast
+
 
 ## Model versioning
 
