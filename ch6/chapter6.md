@@ -22,6 +22,12 @@ NaN imputation??
 
 ## Windowed Inference
 
+Windowed Inference design pattern, which ensures
+that when features are calculated in a dynamic, time-dependent way, they can be cor‐
+rectly repeated between training and serving. This design pattern is particularly use‐
+ful when machine learning models require features that are computed from
+aggregates over time windows.
+
 ## Workflow pipeline
 
 In addition to TFX, Apache Airflow and Kubeflow Pipelines are both alternatives for
@@ -50,6 +56,10 @@ can be shared across projects and teams
 
 
 ## Model versioning
+
+Model Versioning design pattern, where back‐
+ward compatibility is achieved by deploying a changed model as a microservice with
+a different REST endpoint.
 
 
 
