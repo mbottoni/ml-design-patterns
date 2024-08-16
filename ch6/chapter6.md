@@ -18,6 +18,8 @@ with one another.
 
 ## Bridge Schema
 
+NaN imputation??
+
 ## Windowed Inference
 
 ## Feature Store
