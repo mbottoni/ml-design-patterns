@@ -7,6 +7,8 @@
 
 ## Explainable
 
+- shap values
+
 
 ## Fairness
 
